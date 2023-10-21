@@ -9,6 +9,7 @@
     <name>gateway</name>
     <description>柜台</description>
     <packaging>jar</packaging>
+    
 
     <properties>
         <java.version>1.8</java.version>
